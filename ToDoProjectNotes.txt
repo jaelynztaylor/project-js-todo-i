@@ -1,0 +1,25 @@
+ToDo Project Notes
+
+Nouns:
+  tasks
+  list
+  order
+  hierarchy
+  deadlines
+  descriptions
+  check 
+
+Verbs:
+  check off tasks
+  add new tasks
+  delete tasks
+  edit tasks (?)
+  order/prioritize task
+
+Plan of Attack
+  1. Create a function that allows new tasks 
+  to be added to the todo list 
+  2. Push those tasks into an array called 
+  "To Do list"
+  3. Be able to remove tasks from the list
+  4. 
